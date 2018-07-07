@@ -3,3 +3,5 @@
 def parrot(phrase="", default="Squawk!")
   puts parrot
 end
+
+parrot()
